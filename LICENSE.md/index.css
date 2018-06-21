@@ -1,0 +1,57 @@
+:root{
+        font-size: 16px;
+}
+body{
+        background-color: green;
+
+}
+.container-out{
+        height: 95%;
+        margin: 1% 5%;
+        width: 90%;
+        border-radius: 10px;
+        border: 2px solid blue;
+}
+section{
+        margin: 0;
+}
+
+.Title-div, .Year-div, .Id-div{
+        margin: 2%;
+        background: skyblue;
+        border-radius: 5px;
+}
+button{
+        background-color: #00e600;
+        border: 0;
+        width: 15%;
+        font-size: 1rem;
+}
+button:hover{
+        color:#fff;
+        font-weight: bold;
+        border-radius: 5px;
+        box-shadow: 1px 2px 2px #888888
+}
+.home{
+        margin-left: 80%;
+}
+.homeSection button{
+        background-color: blue;
+        border: 0px;
+        margin-bottom: 2px;
+        border-radius: 5px;
+}
+.homeSection button:hover{
+        color:#ff6600;
+        font-weight: bold;
+        border-radius: 5px;
+        box-shadow: 1px 2px 2px #888888
+}
+
+.poster{
+        padding: 0 35%;
+}
+#showData-Title, #showData-Year, #showData-Id{
+        margin: 2%;
+}
